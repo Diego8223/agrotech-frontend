@@ -6,7 +6,8 @@ import Home from './pages/Home';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Products from './pages/Products';
-import Blockchain from './pages/Blockchain';  // Importar Blockchain
+import Blockchain from './pages/Blockchain'; 
+import Analiticadatos from './pages/Analiticadatos';  
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import './App.css';
 

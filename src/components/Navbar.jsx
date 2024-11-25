@@ -13,6 +13,7 @@ function Navbar() {
         <li><Link to="/about">Sobre Nosotros</Link></li>
         <li><Link to="/products">Productos</Link></li>
         <li><Link to="/Blockchain">Trazabilidad</Link></li>
+        <li><Link to="/Analiticadatos">Analitica De Datos</Link></li>
         <li><Link to="/contact">Contacto</Link></li>
       </ul>
     </nav>
