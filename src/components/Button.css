@@ -1,5 +1,5 @@
 .btn {
-    background-color: #2e8b57;
+    background-color: #D4AF37;
     color: white;
     font-size: 18px;
     padding: 10px 20px;
@@ -10,7 +10,7 @@
   }
   
   .btn:hover {
-    background-color: #ff6347;
+    background-color: #BCAAA4;
     transform: translateY(-5px);
   }
   

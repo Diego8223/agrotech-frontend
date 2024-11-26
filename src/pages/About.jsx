@@ -7,7 +7,7 @@ function About() {
     <main className="about">
       <h1>Agro Track</h1>
       <p>
-       En agro Track ayudamos a nuestros clientes a tener soluciones sostnibles en el campo.
+       En Cáfe Raíces ayudamos a nuestros clientes a tener soluciones sostenibles en el campo.
       </p>
       
       {/* Carrusel */}

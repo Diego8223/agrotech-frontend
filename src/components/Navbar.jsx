@@ -6,7 +6,7 @@ function Navbar() {
   return (
     <nav className="navbar">
       <div className="navbar-logo">
-        <Link to="/">🌱 AgroApp</Link>
+        <Link to="/">☕ Cáfe Raíces</Link>
       </div>
       <ul className="navbar-links">
         <li><Link to="/">Inicio</Link></li>

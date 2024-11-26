@@ -22,7 +22,7 @@ const Blockchain = () => {
   });
 
   // Dirección del contrato inteligente
-  const contractAddress = '0xd9145CCE52D386f254917e481eB44e9943F39138';
+  const contractAddress = '0x7015672E76039ce2d4dA6Db605F0d5837B4be186';
 
   // ABI del contrato inteligente
   const contractABI = [

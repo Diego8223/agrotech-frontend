@@ -9,7 +9,7 @@
   display: flex;
   justify-content: space-between; /* Espacia el logo y los enlaces */
   align-items: center;
-  background-color: #3aaf85; /* Color principal */
+  background-color: #4E342E; /* Color principal */
   padding: 15px 30px;
   box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
 }
@@ -42,7 +42,7 @@
 }
 
 .navbar-links a:hover {
-  color: #f9b934; /* Color en hover */
+  color: #FFECB3; /* Color en hover */
 }
 
 /* Responsivo: ajustar para pantallas pequeñas */

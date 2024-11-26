@@ -4,9 +4,11 @@
   "private": true,
   "dependencies": {
     "@mui/icons-material": "^6.1.8",
+    "@openzeppelin/contracts": "^5.1.0",
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "qrcode.react": "^4.1.0",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "react-responsive-carousel": "^3.2.23",
@@ -16,10 +18,10 @@
     "web3": "^4.15.0"
   },
   "devDependencies": {
+    "dotenv": "^16.0.3",
+    "ethers": "^5.7.2",
     "hardhat": "^2.15.0",
-    "ethers": "^5.7.0",
-    "solidity-coverage": "^0.7.0",
-    "dotenv": "^16.0.3"
+    "solidity-coverage": "^0.7.0"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -104,5 +106,10 @@
       "stateMutability": "view",
       "type": "function"
     }
-  ]
+  ],
+  "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }

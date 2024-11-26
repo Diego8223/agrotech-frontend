@@ -4,10 +4,10 @@ import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
 import About from './pages/About';
-import Contact from './pages/Contact';
 import Products from './pages/Products';
-import Blockchain from './pages/Blockchain'; 
-import Analiticadatos from './pages/Analiticadatos';  
+import Blockchain from './pages/Blockchain';
+import Analiticadatos from './pages/Analiticadatos';
+import GeolocalizacionQR from './pages/GeolocalizacionQR';
 import 'react-responsive-carousel/lib/styles/carousel.min.css';
 import './App.css';
 
@@ -20,8 +20,9 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/about" element={<About />} />
           <Route path="/products" element={<Products />} />
-          <Route path="/contact" element={<Contact />} />
-          <Route path="/blockchain" element={<Blockchain />} />  {/* Agregar ruta para Blockchain */}
+          <Route path="/geolocalizacion" element={<GeolocalizacionQR />} />
+          <Route path="/blockchain" element={<Blockchain />} />
+          <Route path="/analiticadatos" element={<Analiticadatos />} />
         </Routes>
       </div>
       <Footer />

@@ -3,9 +3,9 @@ import './Products.css';
 
 function Products() {
   const products = [
-    { name: 'Semillas de Trigo', description: 'Alta calidad y rendimiento.', price: 'COP 50,000' },
-    { name: 'Abono Orgánico', description: 'Ideal para cultivos sostenibles.', price: 'COP 30,000' },
-    { name: 'Tractor', description: 'Máquina eficiente para grandes cultivos.', price: 'COP 5,000,000' },
+    { name: 'Café Pergamino', description: 'Grano Mas Natural y Economico.', price: 'COP 53,000 25 KG' },
+    { name: 'Café Excelso', description: 'Café de Alta Calidad Premium.', price: 'COP 54,000 25 KG' },
+    { name: 'Café en Grano', description: 'Café Tostado listo para ser Molido.', price: 'COP 100000 50 KG' },
   ];
 
   return (

@@ -17,7 +17,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: linear-gradient(135deg, #3aaf85, #f9b934);
+  background: linear-gradient(135deg, #4E342E, #f9b934);
   color: white;
   text-align: center;
   overflow: hidden;
@@ -48,8 +48,8 @@ body {
 .hero-button {
   padding: 15px 30px;
   font-size: 1.2rem;
-  background-color: #ffffff;
-  color: #3aaf85;
+  background-color: #D4AF37;
+  color: white;
   border: none;
   border-radius: 25px;
   cursor: pointer;
@@ -58,7 +58,7 @@ body {
 }
 
 .hero-button:hover {
-  background-color: #f9b934;
+  background-color: #BCAAA4;
   color: white;
   transform: translateY(-3px);
   box-shadow: 0px 15px 25px rgba(0, 0, 0, 0.15);
